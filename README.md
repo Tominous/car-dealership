@@ -1,2 +1,2 @@
 # car-dealership
-A car dealership website built during my university degree
+A simple prototype for a car dealership website
