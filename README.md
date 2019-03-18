@@ -15,6 +15,7 @@ A web based car configurator application
 **Trim** 
 
 Fiesta - [Standard, EcoMax (+£500), Sport(+£1500), Titanium(+£2000)]
+
 Focus - [Standard, EcoMax (+£600), Sport(+£1600), Titanium(+£2100)]
 
 Mondeo - [Standard, Sport(+£750), Titanium(+£3000)]
